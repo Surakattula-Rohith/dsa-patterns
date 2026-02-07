@@ -1,4 +1,4 @@
-package io.github.surakattularohith.complex_dsa.slidingWindow_sorting;
+package io.github.surakattularohith.dsa.slidingWindow;
 
 import java.util.Arrays;
 
