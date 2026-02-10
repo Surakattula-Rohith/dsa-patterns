@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * Longest Balanced Subarray
+ * Longest Balanced Subarray - LeetCode 3719
  *
  * A subarray is called balanced if:
  *   number of DISTINCT even values
