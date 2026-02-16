@@ -1,4 +1,4 @@
-package io.github.surakattularohith.dsa.binaryTree;
+package io.github.surakattula_rohith.dsa.binary_tree;
 
 import java.util.*;
 

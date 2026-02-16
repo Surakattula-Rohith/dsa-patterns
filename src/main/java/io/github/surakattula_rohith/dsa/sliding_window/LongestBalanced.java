@@ -1,4 +1,4 @@
-package io.github.surakattularohith.dsa.slidingWindow;
+package io.github.surakattula_rohith.dsa.sliding_window;
 
 import java.util.HashSet;
 import java.util.Set;

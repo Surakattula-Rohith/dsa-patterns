@@ -1,4 +1,4 @@
-package io.github.surakattularohith.dsa.greedy;
+package io.github.surakattula_rohith.dsa.greedy;
 
 public class MinimumDeletions {
     /**

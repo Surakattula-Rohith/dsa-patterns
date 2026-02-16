@@ -1,4 +1,4 @@
-package io.github.surakattularohith.complex_dsa.slidingWindow_sets;
+package io.github.surakattula_rohith.complex_dsa.sliding_window_sets;
 
 import java.util.*;
 
